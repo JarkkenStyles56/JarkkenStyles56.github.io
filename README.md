@@ -6,4 +6,4 @@
 
 * I hope to do this by incorporating everything we've learned thus far about using semantic HTML, incorporating bootstrap to avoid the copious amounts of necessary css and jss to make a webpage accessible and workable, and making a wire frame to guide me in my creative process. 
 
-*Everything should be visually neat and readable on any device. Components should wrap when breakpoints are reached. Pictures, text, and other elements should have good spacing, (Margins, padding, etc.) in relation to the edges of the visible screen and also to one another.
+* Everything should be visually neat and readable on any device. Components should wrap when breakpoints are reached. Pictures, text, and other elements should have good spacing, (Margins, padding, etc.) in relation to the edges of the visible screen and also to one another.
